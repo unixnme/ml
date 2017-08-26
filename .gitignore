@@ -1,0 +1,7 @@
+*.pptx
+*.h5
+*.swp
+*.swo
+*.pyc
+.idea/
+.ipynb_checkpoints/
